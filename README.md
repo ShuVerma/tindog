@@ -17,3 +17,9 @@ Bootstrap Module
 -  Added testimonial section
 -  Fixed layout
 -  Added carousel
+
+18-02-2022
+-  Added pricing section
+-  Added Cards
+-  Adapted to Bootstrap 5 (no card-deck)
+-  Finished pricing section
