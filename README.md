@@ -12,3 +12,8 @@ Bootstrap Module
 -  Added icons
 -  Fixed layout
 -  Finished features section
+
+17-02-2022
+-  Added testimonial section
+-  Fixed layout
+-  Added carousel
